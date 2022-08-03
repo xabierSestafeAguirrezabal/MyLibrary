@@ -8,7 +8,7 @@
 import Foundation
 import LBFraudSDKiOS
 
-public class test {
+public class testing {
     init(){
         let locationManager = CLLocationManager()
               locationManager.requestWhenInUseAuthorization()
