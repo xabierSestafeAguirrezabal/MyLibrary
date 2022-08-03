@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ironchip_lbfraud_sdk_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/ironchip_dev/location_based_anti-fraud/mobility_team/ironchip_lbfraud_sdk_ios.git",
+      "state" : {
+        "revision" : "2872518452944db1ead871ed97a87dbf03bfb91e",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
